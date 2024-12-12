@@ -41,10 +41,10 @@ toc: true
 
 [Alberta Backfilled Wall-to-Wall Vegetation Layer](https://abmi.ca/home/data-analytics/da-top/da-product-overview/Data-Archive/Detailed-Vegetation-Maps.html)
 
+[Alberta Base Stream and Flow Representation](https://geodiscover.alberta.ca/geoportal/rest/metadata/item/a8739420b43f467ebde0b1618a177409/html)
+
 [Alberta Merged Wetland Inventory](https://geodiscover.alberta.ca/geoportal/rest/metadata/item/bfa8b3fdf0df4ec19f7f648689237969/html)
 
-[Base Stream and Flow Representation](https://geodiscover.alberta.ca/geoportal/rest/metadata/item/a8739420b43f467ebde0b1618a177409/html)
-
-![GBIF Beaver Occurrence Data](https://doi.org/10.15468/dl.ukgnss)
+[GBIF Beaver Occurrence Data](https://doi.org/10.15468/dl.ukgnss)
 
 
