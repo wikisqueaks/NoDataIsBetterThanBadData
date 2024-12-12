@@ -11,6 +11,7 @@ toc: true
 1. [Metadata](#metadata)
 2. [References](#references)
 3. [Data Sources](#data-sources)
+4. [Software](#software)
 
 <!-- TOC end -->
 
@@ -56,5 +57,14 @@ toc: true
 [Alberta Merged Wetland Inventory](https://geodiscover.alberta.ca/geoportal/rest/metadata/item/bfa8b3fdf0df4ec19f7f648689237969/html)
 
 [GBIF Beaver Occurrence Data](https://doi.org/10.15468/dl.ukgnss)
+
+<!-- TOC --><a name="software"></a>
+# Software
+
+ESRI. 2011. ArcGIS Pro 3.4.0.
+ 
+R Core Team. 2024. R: A Language and Environment for Statistical Computing. R Foundation for Statistical Computing, Vienna, Austria.
+  
+Robin, X., N. Turck, A. Hainard, N. Tiberti, F. Lisacek, J.-C. Sanchez, and M. Müller. 2011. pROC: an open-source package for R and S+ to analyze and compare ROC curves.
 
 
