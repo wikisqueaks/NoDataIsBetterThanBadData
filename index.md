@@ -4,7 +4,13 @@ title: No Data is Better Than Bad Data
 subtitle: Metadata & References
 author: Kyle Taylor
 toc: true
+toc_float: true
 ---
+# Metadata
+
+## CASCAN Model 1 Prediction Layer
+
+## Other Layer
 
 # References
 <div class="csl-bib-body" style="line-height: 2; margin-left: 2em; text-indent:-2em;">
@@ -34,8 +40,4 @@ toc: true
 
 # Data Sources
 
-# Metadata
-
-## CASCAN Model 1 Prediction Layer
-
-## Other Layer
+[Base Stream and Flow Representation](https://geodiscover.alberta.ca/geoportal/rest/metadata/item/a8739420b43f467ebde0b1618a177409/html)
