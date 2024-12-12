@@ -1,3 +1,11 @@
+---
+layout: default
+title: No Data is Better Than Bad Data
+subtitle: Metadata & References
+author: Kyle Taylor
+toc: true
+---
+
 <!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
 
 - [Metadata](#metadata)
@@ -6,13 +14,6 @@
 
 <!-- TOC end -->
 
----
-layout: default
-title: No Data is Better Than Bad Data
-subtitle: Metadata & References
-author: Kyle Taylor
-toc: true
----
 <!-- TOC --><a name="metadata"></a>
 # Metadata
 
