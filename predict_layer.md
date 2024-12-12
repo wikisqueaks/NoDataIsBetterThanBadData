@@ -4,7 +4,7 @@ subtitle: Metadata
 ---
 
 # Item Description
-![](images/predict_thumb.jpg)
+<img src="images/predict_thumb.jpg" width="300" />
 
 ## Tags
 beaver, American Beaver, Castor, Castor canadensis, Edmonton, Alberta, Canada, habitat, species distribution, logistic
