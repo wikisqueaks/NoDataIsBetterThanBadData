@@ -1,3 +1,11 @@
+<!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
+
+- [Metadata](#metadata)
+- [References](#references)
+- [Data Sources](#data-sources)
+
+<!-- TOC end -->
+
 ---
 layout: default
 title: No Data is Better Than Bad Data
@@ -5,10 +13,12 @@ subtitle: Metadata & References
 author: Kyle Taylor
 toc: true
 ---
+<!-- TOC --><a name="metadata"></a>
 # Metadata
 
 [CASCAN Model 1 Prediction Layer](predict_layer.md)
 
+<!-- TOC --><a name="references"></a>
 # References
 <div class="csl-bib-body" style="line-height: 2; margin-left: 2em; text-indent:-2em;">
   <div class="csl-entry">Couclelis, H. 2003. The Certainty of Uncertainty: GIS and the Limits of Geographic Knowledge. <i>Transactions in GIS</i> <b>7</b>:165–175.</div>
@@ -35,6 +45,7 @@ toc: true
   <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.1080%2F11956860.2017.1395314&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=North%20American%20Beaver%20(Castor%20canadensis%20Kuhl)%20key%20habitat%20characteristics%3A%20review%20of%20the%20relative%20effects%20of%20geomorphology%2C%20food%20availability%20and%20anthropogenic%20infrastructure&amp;rft.jtitle=%C3%89coscience&amp;rft.volume=25&amp;rft.issue=1&amp;rft.aufirst=Moez&amp;rft.aulast=Touihri&amp;rft.au=Moez%20Touihri&amp;rft.au=Julie%20Labb%C3%A9&amp;rft.au=Louis%20Imbeau&amp;rft.au=Marcel%20Darveau&amp;rft.date=2018-01-02&amp;rft.pages=9-23&amp;rft.spage=9&amp;rft.epage=23&amp;rft.issn=1195-6860"></span>
 </div>
 
+<!-- TOC --><a name="data-sources"></a>
 # Data Sources
 
 [Alberta Backfilled Wall-to-Wall Vegetation Layer](https://abmi.ca/home/data-analytics/da-top/da-product-overview/Data-Archive/Detailed-Vegetation-Maps.html)
