@@ -10,7 +10,7 @@ toc: true
 
 [1. Metadata](#metadata)  
 [2. References](#references)  
-[3. Data Sources](#data-sources) 
+[3. Data Sources](#data-sources)   
 [4. Software](#software)  
   
 <!-- TOC end -->
@@ -18,7 +18,8 @@ toc: true
 <!-- TOC --><a name="metadata"></a>
 # 1. Metadata
 
-[CASCAN Model 1 Prediction Layer](predict_layer.md)
+[CASCAN Model 1 Prediction Layer](predict_layer.md)  
+[Beaver Occurrence, Alberta, Cleaned Data](GBIF_CASCAN_clean_data.md)
 
 <!-- TOC --><a name="references"></a>
 # 2. References
