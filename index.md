@@ -8,9 +8,9 @@ toc: true
 
 <!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
 
-- [Metadata](#metadata)
-- [References](#references)
-- [Data Sources](#data-sources)
+1. [Metadata](#metadata)
+2. [References](#references)
+3. [Data Sources](#data-sources)
 
 <!-- TOC end -->
 
