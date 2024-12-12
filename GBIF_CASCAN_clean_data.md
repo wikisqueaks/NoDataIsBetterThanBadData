@@ -33,11 +33,11 @@ Latitude Of Origin: 0.0
 Cartographer: Kyle Taylor, University of Alberta, kwtaylor@ualberta.ca.
 Created: 2024-12-06
 #### Source Layer Attributions
-ABMI. 2015. Alberta Backfilled Wall-to-Wall Vegetation Layer. Raster, https://abmi.ca/home/data-analytics/da-top/da-product-overview/Data-Archive/Detailed-Vegetation-Maps.html
 
-Alberta Environment and Protected Areas. 2015. Alberta Merged Wetland Inventory. Geodatabase, https://geodiscover.alberta.ca/geoportal/rest/metadata/item/bfa8b3fdf0df4ec19f7f648689237969/html.
+Alberta Environment and Parks. 2000. Base Stream and Flow Representation. Geodatabase, https://geodiscover.alberta.ca/geoportal/rest/metadata/item/a8739420b43f467ebde0b1618a177409/html. 
 
 Global Biodiversity Information Facility. 2024. GBIF Occurrence Download. Table, https://doi.org/10.15468/dl.ukgnss.
+
 ### Use Limitation  
 This layer can be used with attribution for non-commercial purposes. This object was created for educational purposes and accuracy is not guaranteed.
 ### Appropriate Scale  
