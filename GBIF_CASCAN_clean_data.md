@@ -15,7 +15,7 @@ This dataset was created to investigate the effect of spatial and temporal data 
 ### Description (Abstract)    
 This point feature class contains cleaned outputs from the GBIF Castor canadensis occurrence data download for Alberta, Canada. Observations were projected from WGS 1980 to NAD 1983 10TM AEP Forest then filtered to remove any records with over 500m of GPS inaccuracy indicated in the datable variable
 "coordinateUncertaintyInMeatures". Then, any records not within 500m of a stream from the Alberta Base Stream and Flow Representation Layer were removed. Spatially near records were then aggregated using the *Group by Proximity* tool with a 100m radius and *Mean-Cenetered* to produce a single point for each grouping.
-See [#### Source Layer Attribution] for further detail on data sources.
+See [####source-layer-attribution] for further detail on data sources.
 
 #### Spatial Reference Information  
 Cell Resolution: 25m  
