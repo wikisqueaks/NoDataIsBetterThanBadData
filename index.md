@@ -2,6 +2,8 @@
 layout: default
 title: No Data is Better Than Bad Data
 subtitle: Metadata & References
+author: Kyle Taylor
+toc: true
 ---
 
 # References
