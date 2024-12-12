@@ -6,6 +6,7 @@ subtitle: Metadata
 ## Item Description
 ### Title
 CASCAM Model 1 Prediction Layer - Edmonton
+### Thumbnail
 <img src="images/predict_thumb.jpg" width="300" />
 ### Tags
 beaver, American Beaver, Castor, Castor canadensis, Edmonton, Alberta, Canada, habitat, species distribution, logistic
