@@ -1,12 +1,12 @@
 ---
 title: Beaver Occurrence, Alberta, Cleaned Data
-subtitle: Metadata
+subtitle: Metadata  
 ---
 
-## Item Description
-### Title
+## Item Description  
+### Title  
 Aggregated and Cleaned Beaver Occurrence for Alberta, Canada.
-### Thumbnail  
+### Thumbnail    
 <img src="images/AB_CASCAN_points_clean.png" width="300" />
 ### Tags  
 beaver, American Beaver, Castor, Castor canadensis, Edmonton, Alberta, Canada, GBIF
@@ -34,7 +34,7 @@ Cartographer: Kyle Taylor, University of Alberta, kwtaylor@ualberta.ca.
 Created: 2024-12-06
 
 <a name="data-sources"></a>
-#### Source Layer Attributions
+#### Source Layer Attributions  
 
 Alberta Environment and Parks. 2000. Base Stream and Flow Representation. Geodatabase, https://geodiscover.alberta.ca/geoportal/rest/metadata/item/a8739420b43f467ebde0b1618a177409/html. 
 
