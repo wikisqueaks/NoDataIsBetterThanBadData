@@ -8,20 +8,20 @@ toc: true
 
 <!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
 
-1. [Metadata](#metadata)
-2. [References](#references)
-3. [Data Sources](#data-sources)
-4. [Software](#software)
+[1. Metadata](#metadata)
+[2. References](#references)
+[3. Data Sources](#data-sources)
+[4. Software](#software)
 
 <!-- TOC end -->
 
 <!-- TOC --><a name="metadata"></a>
-# Metadata
+# 1. Metadata
 
 [CASCAN Model 1 Prediction Layer](predict_layer.md)
 
 <!-- TOC --><a name="references"></a>
-# References
+# 2. References
 <div class="csl-bib-body" style="line-height: 2; margin-left: 2em; text-indent:-2em;">
   <div class="csl-entry">Couclelis, H. 2003. The Certainty of Uncertainty: GIS and the Limits of Geographic Knowledge. <i>Transactions in GIS</i> <b>7</b>:165–175.</div>
   <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.1111%2F1467-9671.00138&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=The%20Certainty%20of%20Uncertainty%3A%20GIS%20and%20the%20Limits%20of%20Geographic%20Knowledge&amp;rft.jtitle=Transactions%20in%20GIS&amp;rft.stitle=Transactions%20in%20GIS&amp;rft.volume=7&amp;rft.issue=2&amp;rft.aufirst=Helen&amp;rft.aulast=Couclelis&amp;rft.au=Helen%20Couclelis&amp;rft.date=2003-03&amp;rft.pages=165-175&amp;rft.spage=165&amp;rft.epage=175&amp;rft.issn=1361-1682%2C%201467-9671&amp;rft.language=en"></span>
@@ -48,7 +48,7 @@ toc: true
 </div>
 
 <!-- TOC --><a name="data-sources"></a>
-# Data Sources
+# 3. Data Sources
 
 [Alberta Backfilled Wall-to-Wall Vegetation Layer](https://abmi.ca/home/data-analytics/da-top/da-product-overview/Data-Archive/Detailed-Vegetation-Maps.html)
 
@@ -59,7 +59,7 @@ toc: true
 [GBIF Beaver Occurrence Data](https://doi.org/10.15468/dl.ukgnss)
 
 <!-- TOC --><a name="software"></a>
-# Software
+# 4. Software
 
 ESRI. 2011. ArcGIS Pro 3.4.0.
  
