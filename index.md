@@ -8,11 +8,11 @@ toc: true
 
 <!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
 
-[1. Metadata](#metadata)
-[2. References](#references)
-[3. Data Sources](#data-sources)
-[4. Software](#software)
-
+[1. Metadata](#metadata)  
+[2. References](#references)  
+[3. Data Sources](#data-sources) 
+[4. Software](#software)  
+  
 <!-- TOC end -->
 
 <!-- TOC --><a name="metadata"></a>
