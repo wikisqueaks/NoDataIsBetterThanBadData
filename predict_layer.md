@@ -44,7 +44,7 @@ This layer can be used with attribution for non-commercial purposes. This object
 ## Appropriate Scale
 1:50,000 to 1:5,000
 ## Bounding Box
-West: -113.9088197
-East: -113.1321093
-South: 53.2762464
-North: 53.7460180
+West: -113.9088197  
+East: -113.1321093  
+South: 53.2762464  
+North: 53.7460180  
