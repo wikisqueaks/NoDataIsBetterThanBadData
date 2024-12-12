@@ -4,7 +4,6 @@ title: No Data is Better Than Bad Data
 subtitle: Metadata & References
 author: Kyle Taylor
 toc: true
-toc_float: true
 ---
 # Metadata
 
