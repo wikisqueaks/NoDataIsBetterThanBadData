@@ -62,10 +62,12 @@ toc: true
 <!-- TOC --><a name="software"></a>
 # 4. Software
 
-ESRI. 2011. ArcGIS Pro 3.4.0.
- 
-R Core Team. 2024. R: A Language and Environment for Statistical Computing. R Foundation for Statistical Computing, Vienna, Austria.
-  
-Robin, X., N. Turck, A. Hainard, N. Tiberti, F. Lisacek, J.-C. Sanchez, and M. Müller. 2011. pROC: an open-source package for R and S+ to analyze and compare ROC curves.
-
+<div class="csl-bib-body" style="line-height: 2; margin-left: 2em; text-indent:-2em;">
+  <div class="csl-entry">ESRI. 2011. ArcGIS Pro 3.4.0.</div>
+  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=computerProgram&amp;rft.title=ArcGIS%20Pro%203.4.0&amp;rft.au=undefined&amp;rft.date=2011"></span>
+  <div class="csl-entry">R Core Team. 2024. R: A Language and Environment for Statistical Computing. R Foundation for Statistical Computing, Vienna, Austria.</div>
+  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=computerProgram&amp;rft.title=R%3A%20A%20Language%20and%20Environment%20for%20Statistical%20Computing&amp;rft.identifier=https%3A%2F%2Fwww.R-project.org%2F&amp;rft.au=undefined&amp;rft.date=2024"></span>
+  <div class="csl-entry">Robin, X., N. Turck, A. Hainard, N. Tiberti, F. Lisacek, J.-C. Sanchez, and M. Müller. 2011. pROC: an open-source package for R and S+ to analyze and compare ROC curves.</div>
+  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=computerProgram&amp;rft.title=pROC%3A%20an%20open-source%20package%20for%20R%20and%20S%2B%20to%20analyze%20and%20compare%20ROC%20curves&amp;rft.aufirst=Xavier&amp;rft.aulast=Robin&amp;rft.au=Xavier%20Robin&amp;rft.au=Natacha%20Turck&amp;rft.au=Alexandre%20Hainard&amp;rft.au=Natalia%20Tiberti&amp;rft.au=Fr%C3%A9d%C3%A9rique%20Lisacek&amp;rft.au=Jean-Charles%20Sanchez&amp;rft.au=Markus%20M%C3%BCller&amp;rft.date=2011"></span>
+</div>
 
