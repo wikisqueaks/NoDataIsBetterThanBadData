@@ -3,17 +3,21 @@ title: CASCAN Model 1 Prediction Layer
 subtitle: Metadata
 ---
 
-# Item Description
+## Item Description
+
+### Title
+CASCAM Model 1 Prediction Layer - Edmonton
+
 <img src="images/predict_thumb.jpg" width="300" />
 
-## Tags
+### Tags
 beaver, American Beaver, Castor, Castor canadensis, Edmonton, Alberta, Canada, habitat, species distribution, logistic
-## Summary (Purpose)
+### Summary (Purpose)
 This dataset was created for educational purposes to understand the application of logistic spatial regression models to publicly available citizen science data.
-## Description (Abstract)
+### Description (Abstract)
 This raster layer is the output of a logistic regression model giving occupancy probability of American beaver (Castor canadensis) in Edmonton, Alberta, Canada. The model was fit to 5 environmental variable predictor layers with a cell size of 25x25m: Marsh density within a 200 m radius, Anthropogenic density within a 200m radius, Open Water Wetland density within a 200m radius, Deciduous Forest/Shrub density within a 200 m radius, and mean distance from stream within a 200m radius. The marshes and open water wetland layers were extracted from the Alberta Merged Wetland Inventory. The deciduous tree cover was extracted from the ABMI Back-Filled Wall-to-Wall Vegetation Layer. Beaver occurrence data from Global Biodiversity Information Facility (GBIF).  See credits for further detail on data sources.
 
-**Spatial Reference Information**
+#### Spatial Reference Information
 
 Cell Resolution: 25m  
 Projected Coordinate System; NAD 1983 10TM AEP Forest  
@@ -27,10 +31,10 @@ Central Meridian -115.0
 Scale Factor: 0.9992  
 Latitude Of Origin: 0.0  
 
-## Credits
+### Credits
 Cartographer: Kyle Taylor, University of Alberta, kwtaylor@ualberta.ca.
 Created: 2024-12-06
-### Source Layer Attributions
+#### Source Layer Attributions
 
 ABMI. 2015. Alberta Backfilled Wall-to-Wall Vegetation Layer. Raster, https://abmi.ca/home/data-analytics/da-top/da-product-overview/Data-Archive/Detailed-Vegetation-Maps.html
 
@@ -38,10 +42,10 @@ Alberta Environment and Protected Areas. 2015. Alberta Merged Wetland Inventory.
 
 Global Biodiversity Information Facility. 2024. GBIF Occurrence Download. Table, https://doi.org/10.15468/dl.ukgnss.
 
-## Use Limitation
+### Use Limitation
 This layer can be used with attribution for non-commercial purposes. This object was created for educational purposes and accuracy is not guaranteed.
 
-## Appropriate Scale
+### Appropriate Scale
 1:50,000 to 1:5,000
 ## Bounding Box
 West: -113.9088197  
